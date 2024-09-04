@@ -12,7 +12,5 @@ public static int getSize(long d){
         return Long.toString(d).length();
 }
 
-
-
 }
 
