@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a05e30d5-c449-4d65-84a8-cd58c6941fc7" name="Changes" comment="JAC444">
+    <list default="true" id="a05e30d5-c449-4d65-84a8-cd58c6941fc7" name="Changes" comment="JAC444 test commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1.java" afterDir="false" />
     </list>
@@ -21,11 +21,16 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2lGZ9b9HyPfJD8La1ZEy7ld4aDz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -36,7 +41,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "dev",
     "onboarding.tips.debug.path": "/Users/min/Desktop/Project/JAC444/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -77,11 +82,20 @@
       <option name="project" value="LOCAL" />
       <updated>1724869489954</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="JAC444 test commit">
+      <option name="closed" value="true" />
+      <created>1725458784860</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725458784860</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="JAC444" />
-    <option name="LAST_COMMIT_MESSAGE" value="JAC444" />
+    <MESSAGE value="JAC444 test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="JAC444 test commit" />
   </component>
 </project>
